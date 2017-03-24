@@ -1,0 +1,2 @@
+# Documentoos
+ejercicios en haskell 
